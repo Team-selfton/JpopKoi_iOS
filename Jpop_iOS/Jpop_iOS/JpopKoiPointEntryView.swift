@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct Jpop_iOSApp: App {
+struct JpopKoiPointEntryView: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
